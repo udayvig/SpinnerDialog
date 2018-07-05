@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DialogWithRecycler</string>
+    <string-array name="applianceList">
+        <item>AC</item>
+        <item>Fan</item>
+        <item>Lift</item>
+        <item>Geyser</item>
+        <item>Washing Machine</item>
+        <item>RO</item>
+        <item>Dishwasher</item>
+        <item>Microwave</item>
+        <item>Refrigerator</item>
+        <item>TV</item>
+        <item>CCTV</item>
+        <item>Iron</item>
+        <item>Induction</item>
+        <item>Router</item>
+        <item>Heater</item>
+        <item>D2H</item>
+        <item>Other</item>
+    </string-array>
+</resources>
