@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">DialogWithRecycler</string>
     <string-array name="applianceList">
+        <item>Select An Appliance </item>
         <item>AC</item>
         <item>Fan</item>
         <item>Lift</item>
